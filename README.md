@@ -7,8 +7,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 1 - Linux User Setup with Non-Interactive Shell
 - [x] Day 2 - Temporary User Setup with Expiry
 - [x] Day 3 - Secure Root SSH Access
-- [ ] Day 4
-- [ ] Day 5
+- [x] Day 4 - Script Execution Permissions
 
 ## Topics Covered
 
@@ -28,3 +27,10 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - SSH Configuration
 - PermitRootLogin
 - SSH Service Management
+
+### Day 4
+- Linux File Permissions
+- Owner, Group, Others
+- Read, Write, Execute
+- chmod Command
+- Script Execution
