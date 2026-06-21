@@ -9,6 +9,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 3 - Secure Root SSH Access
 - [x] Day 4 - Script Execution Permissions
 - [x] Day 5 - SELinux Installation & Configuration
+- [x] Day 6 - Create a Cron Job
 
 ## Topics Covered
 
@@ -44,3 +45,10 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - sestatus Command
 - setenforce Command
 - SELinux Configuration
+
+### Day 6
+- Cron Jobs
+- Crontab
+- Task Scheduling
+- Cron Service
+- Linux Automation
