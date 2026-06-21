@@ -8,6 +8,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 2 - Temporary User Setup with Expiry
 - [x] Day 3 - Secure Root SSH Access
 - [x] Day 4 - Script Execution Permissions
+- [x] Day 5 - SELinux Installation & Configuration
 
 ## Topics Covered
 
@@ -34,3 +35,12 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - Read, Write, Execute
 - chmod Command
 - Script Execution
+
+### Day 5
+- SELinux Basics
+- Enforcing Mode
+- Permissive Mode
+- getenforce Command
+- sestatus Command
+- setenforce Command
+- SELinux Configuration
