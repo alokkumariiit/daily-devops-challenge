@@ -11,6 +11,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 5 - SELinux Installation & Configuration
 - [x] Day 6 - Create a Cron Job
 - [x] Day 7 - Linux SSH Authentication
+- [x] Day 8 - Ansible Installation and Setup
 
 ## Topics Covered
 
@@ -61,3 +62,11 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - RSA Keys
 - ssh-copy-id
 - Passwordless SSH
+
+### Day 8
+- Ansible Basics
+- Ansible Architecture
+- Controller Node
+- Managed Nodes
+- pip3 Installation
+- SSH-based Automation
