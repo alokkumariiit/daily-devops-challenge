@@ -10,6 +10,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 4 - Script Execution Permissions
 - [x] Day 5 - SELinux Installation & Configuration
 - [x] Day 6 - Create a Cron Job
+- [x] Day 7 - Linux SSH Authentication
 
 ## Topics Covered
 
@@ -52,3 +53,11 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - Task Scheduling
 - Cron Service
 - Linux Automation
+
+### Day 7
+- SSH Basics
+- SSH Authentication
+- SSH Key Generation
+- RSA Keys
+- ssh-copy-id
+- Passwordless SSH
