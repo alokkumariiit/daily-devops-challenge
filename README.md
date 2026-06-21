@@ -1,8 +1,30 @@
 # 100 Days of DevOps
 
-My journey to become a DevOps Engineer.
+My journey to become a DevOps Engineer through hands-on learning, projects, and real-world DevOps practices.
 
 ## Progress
 
-- Day 1 - Linux User Setup with Non-Interactive Shell
-- Day 2 - Temporary User Setup
+- [x] Day 1 - Linux User Setup with Non-Interactive Shell
+- [x] Day 2 - Temporary User Setup with Expiry
+- [x] Day 3 - Secure Root SSH Access
+- [ ] Day 4
+- [ ] Day 5
+
+## Topics Covered
+
+### Day 1
+- Linux User Management
+- Interactive vs Non-Interactive Shells
+- Service Accounts
+
+### Day 2
+- Temporary User Accounts
+- Account Expiry Management
+- User Aging Information
+
+### Day 3
+- SSH Basics
+- Root Login Security
+- SSH Configuration
+- PermitRootLogin
+- SSH Service Management
