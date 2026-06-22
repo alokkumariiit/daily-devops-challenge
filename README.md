@@ -12,6 +12,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 6 - Create a Cron Job
 - [x] Day 7 - Linux SSH Authentication
 - [x] Day 8 - Ansible Installation and Setup
+- [x] Day 9 - Linux Service Troubleshooting
 
 ## Topics Covered
 
@@ -70,3 +71,12 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - Managed Nodes
 - pip3 Installation
 - SSH-based Automation
+
+### Day 9
+- Service Troubleshooting
+- systemctl
+- journalctl
+- Log Analysis
+- Configuration Verification
+- Filesystem Validation
+- Root Cause Analysis
