@@ -13,6 +13,7 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - [x] Day 7 - Linux SSH Authentication
 - [x] Day 8 - Ansible Installation and Setup
 - [x] Day 9 - Linux Service Troubleshooting
+- [x] Day 10 - Linux Backup Automation
 
 ## Topics Covered
 
@@ -80,3 +81,13 @@ My journey to become a DevOps Engineer through hands-on learning, projects, and 
 - Configuration Verification
 - Filesystem Validation
 - Root Cause Analysis
+
+### Day 10
+- Backup Automation
+- Bash Scripting
+- ZIP Compression
+- SCP File Transfer
+- SSH Key Authentication
+- Linux Paths
+- mkdir -p
+- Script Permissions
